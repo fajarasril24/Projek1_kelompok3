@@ -1,2 +1,2 @@
-# Projek1_kelompok3
-Tugas projek pertama
+# Project1_kelompok3
+First project
